@@ -1,2 +1,5 @@
 # 42-so_long
-https://cdn.intra.42.fr/pdf/pdf/46707/fr.subject.pdf
+
+This project is a small 2D game with minilibx. You'll learn about textures, sprites and tiles.
+
+https://github.com/salty-kambi/42-so_long/blob/master/so_long.fr.subject.pdf
